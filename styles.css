@@ -1,2 +1,10 @@
+ul{
+    max-width: 500px;
+    margin: 0 auto;
+    list-style-type: none;
+    padding: 0;
+}
 
-/* Your CSS Code here. */
+img{
+    width: 100%;
+}
